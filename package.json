@@ -9,9 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/lab": "^5.0.0-alpha.93",
+    "@mui/material": "^5.13.0",
+    "@mui/x-data-grid": "^5.15.1",
+    "@mui/x-date-pickers": "^5.0.0-beta.4",
+    "@tabler/icons": "^1.76.0",
+    "@mui/icons-material": "^5.8.4",
     "autoprefixer": "10.4.14",
+    "axios": "^0.27.2",
+    "date-fns": "^2.29.1",
+    "formik": "^2.2.9",
     "next": "13.4.2",
     "postcss": "8.4.23",
+    "qs": "^6.11.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tailwindcss": "3.3.2"
